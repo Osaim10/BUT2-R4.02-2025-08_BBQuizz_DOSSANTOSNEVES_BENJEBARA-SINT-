@@ -2,6 +2,7 @@ package org.univ_paris8.iut.montreuil.qdev.tp2025.gr8jeuQuizz.services.impl;
 
 import org.univ_paris8.iut.montreuil.qdev.tp2025.gr08.jeuQuizz.entities.dto.QuestionnaireDTO;
 import org.univ_paris8.iut.montreuil.qdev.tp2025.gr08.jeuQuizz.services.interfaces.QuestionnaireServices;
+import org.univ_paris8.iut.montreuil.qdev.tp2025.gr08.jeuQuizz.utils.exceptions.QuestInvalideException;
 import org.univ_paris8.iut.montreuil.qdev.tp2025.gr8.jeuQuizz.entities.dto.JoueurDTO;
 import org.univ_paris8.iut.montreuil.qdev.tp2025.gr8.jeuQuizz.services.impl.JoueurService;
 import org.univ_paris8.iut.montreuil.qdev.tp2025.gr8jeuQuizz.services.interfaces.PartieServices;
